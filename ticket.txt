@@ -1,0 +1,20 @@
+     GABRIEL FARMA EIRL   
+Calle Principal S/N Villa Vichayal - La Arena, Piura
+Boleta de Venta
+Tel: 073 - 703230
+RUC: 12345678900
+---------------------
+Fecha: 5/5/2017
+Hora: 03:44:59
+Ticket: 1-4
+---------------------
+Total  : S/.5.00
+Su Pago: S/.10.00
+Cambio : S/. 5.00
+     Lo atendio:    
+  DIEGO SILVA VIERA
+---------------------
+Cant. Art.  Monto
+---------------------
+2.00|EJEMPLO
+           5.00
